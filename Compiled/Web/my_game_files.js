@@ -1,0 +1,1 @@
+var gamefiles = ['James_Templete_Room.ags', 'acsetup.cfg'];
